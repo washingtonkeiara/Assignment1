@@ -1,0 +1,31 @@
+p {
+    font-size: 20px;
+    color: orangered;
+    font-family:"Lucida Console";
+    font-style: bold;
+
+}
+
+
+h1{
+    font-size: 75px;
+    color: orangered;
+    font-family:"times new roman";
+
+
+
+}
+
+
+
+
+
+
+.image1 { 
+    height: 400px;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
