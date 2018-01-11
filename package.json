@@ -1,0 +1,24 @@
+{
+  "name": "Assignment1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch index.scss index.css"
+  }, 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/washingtonkeiara/Assignment1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/washingtonkeiara/Assignment1/issues"
+  },
+  "homepage": "https://github.com/washingtonkeiara/Assignment1#readme",
+  "dependencies": {
+    "node-sass": "^4.7.2"
+  }
+}
